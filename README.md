@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Dhruv<br><br>I'm a passionate developer who loves building cool things with code.  <br>Currently learning new tech, exploring open source, and working on personal projects.<br><br>- 🔧 Tech I use: JavaScript, Node.js, mongoDB<br>- 📫 Reach me at: pith.dhruv@gmail.com<br><br>Thanks for stopping by! 🚀<br>
+## 💫 About Me:
+### 👋 Hi, I'm Dhruv<br><br>I'm a passionate developer who loves building cool things with code.  <br>Currently learning new tech, exploring open source, and working on personal projects.<br><br>- 🔧 Tech I use: JavaScript, Node.js, mongoDB<br>- 📫 Reach me at: pith.dhruv@gmail.com<br><br>Thanks for stopping by! 🚀<br>
 
 
 ## 🌐 Socials:
